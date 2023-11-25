@@ -1,0 +1,17 @@
+{
+  "name": "using-preload-scripts",
+  "version": "1.0.0",
+  "description": "- electron은 노드 모듈 환경으로 OS의 모든 시스템에 접근이 가능하다.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^27.0.4"
+  },
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
